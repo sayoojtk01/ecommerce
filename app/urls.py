@@ -18,8 +18,10 @@ urlpatterns=[
     path('product_table/',views.product_table),
     path('prdelete/',views.prdelete),
     path('prdupdate/',views.prdupdate),
+    path('cart/',views.cart),
     path('addtocart/',views.addtocart),
     path('cart_update/',views.cart_update),
+    path('cart_delete/',views.cart_remove),
     path('payment/',views.payment),
     
 

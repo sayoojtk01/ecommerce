@@ -86,7 +86,7 @@ DATABASES = {
 # DATABASES = {
 #     'default': {
 #         'ENGINE': 'django.db.backends.mysql',
-#         'NAME': 'taskdb',
+#         'NAME': '2new_task_db',
 #         'USER': 'root',
 #         'PASSWORD':'',
 #         'HOST':'localhost',
